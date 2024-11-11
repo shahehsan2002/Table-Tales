@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <div>
        <Helmet>
-        <title>Home| Table Tales</title>
+        <title>Home| Table-Tales</title>
       </Helmet>
         <Banner></Banner>
         <Category></Category>
